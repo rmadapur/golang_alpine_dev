@@ -1,6 +1,9 @@
 # golang_alpine_dev
 Docker Image for Golang Alpine Dev
 
+docker pull mritesh/golang_alpine_build
+
+```
 Contains the following
 1 Alpine Linux
 2 golang 1.10-3
@@ -10,4 +13,6 @@ Contains the following
 6 git
 7 gocov
 6 go-junit
+```
+
 
